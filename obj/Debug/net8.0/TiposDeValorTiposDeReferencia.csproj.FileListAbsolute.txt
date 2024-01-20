@@ -1,0 +1,15 @@
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\bin\Debug\net8.0\TiposDeValorTiposDeReferencia.exe
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\bin\Debug\net8.0\TiposDeValorTiposDeReferencia.deps.json
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\bin\Debug\net8.0\TiposDeValorTiposDeReferencia.runtimeconfig.json
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\bin\Debug\net8.0\TiposDeValorTiposDeReferencia.dll
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\bin\Debug\net8.0\TiposDeValorTiposDeReferencia.pdb
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\obj\Debug\net8.0\TiposDeValorTiposDeReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\obj\Debug\net8.0\TiposDeValorTiposDeReferencia.AssemblyInfoInputs.cache
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\obj\Debug\net8.0\TiposDeValorTiposDeReferencia.AssemblyInfo.cs
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\obj\Debug\net8.0\TiposDeValorTiposDeReferencia.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\obj\Debug\net8.0\TiposDeValorTiposDeReferencia.sourcelink.json
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\obj\Debug\net8.0\TiposDeValorTiposDeReferencia.dll
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\obj\Debug\net8.0\refint\TiposDeValorTiposDeReferencia.dll
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\obj\Debug\net8.0\TiposDeValorTiposDeReferencia.pdb
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\obj\Debug\net8.0\TiposDeValorTiposDeReferencia.genruntimeconfig.cache
+C:\dev\dotnet\EstudoBase\TiposDeValorTiposDeReferencia\obj\Debug\net8.0\ref\TiposDeValorTiposDeReferencia.dll
